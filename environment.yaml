@@ -1,0 +1,5 @@
+name: amplicon-tutorial
+channels:
+  - conda-forge
+dependencies:
+  - bioconda::cutadapt
