@@ -1,2 +1,2 @@
-install.packages(c("BiocManager", "tidyverse", "vegan", "DESeq2", "dendextend", "viridis"))
+install.packages(c("BiocManager", "tidyverse", "vegan", "dendextend", "viridis"))
 BiocManager::install(c("dada2", "decontam", "phyloseq", "DESeq2"))
